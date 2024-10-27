@@ -1,5 +1,3 @@
-# Personal-portfolio-website
-
 # Partha Pratim Sarkar | Portfolio
 
 ## Overview
